@@ -13,6 +13,6 @@ node app.js
 
 Installation of Docker 
 
-Automated Jenkins Pipeline:
+Automated Jenkins Pipeline using Github webhooks:
 docker build . -t nodeapp
 docker run -d --name nodeappcontainer -p 8000:8000 nodeapp

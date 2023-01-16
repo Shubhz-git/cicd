@@ -1,7 +1,8 @@
 # Todo Node JS application with AWS EC2, Docker containerization and Jenkins automated Pipeline.
 
 # Server side:
-Creation of an EC2 instaince with allowing HTTP traffic with Port opening for Jenkins Server
+Creation of an EC2 instaince with allowing HTTP traffic with Port opening for Jenkins Server  
+
 Installation of jenkins [install JDK first then jenkins]
 Creation of SSH Key [ssh-keygen]
 

@@ -2,9 +2,9 @@
 
 # Server side:
 Creation of an EC2 instaince with allowing HTTP traffic with Port opening for Jenkins Server  
+Installation of jenkins [install JDK first then jenkins]  
+Creation of SSH Key [ssh-keygen]  
 
-Installation of jenkins [install JDK first then jenkins]
-Creation of SSH Key [ssh-keygen]
 
 # Application side:
 sudo apt install nodejs

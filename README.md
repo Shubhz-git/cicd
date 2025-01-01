@@ -1,4 +1,4 @@
-# Todo Node JS application with AWS EC2, Docker containerization and Jenkins automated Pipeline.
+# Node JS application with AWS EC2, Docker containerization and Jenkins automated Pipeline.
 
 # Server side:
 Creation of an EC2 instaince with allowing HTTP traffic with Port opening for Jenkins Server  
